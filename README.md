@@ -25,5 +25,5 @@ Summary:
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
 
-![alt text](https://github.com/PSWil/PyBear_Analysis/blob/main/analysis/PyBer_analysis_by_region.png)
-![alt text](https://github.com/PSWil/PyBear_Analysis/blob/main/analysis/PyBer_fare_summary.png)
+![Summary of Operational Environment](https://github.com/PSWil/PyBear_Analysis/blob/main/analysis/PyBer_analysis_by_region.png)
+![Graph of Operational Environment](https://github.com/PSWil/PyBear_Analysis/blob/main/analysis/PyBer_fare_summary.png)
