@@ -24,3 +24,6 @@ There is a description of the differences in ride-sharing data among the differe
 Summary:
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
+
+![alt text](https://github.com/PSWil/PyBear_Analysis/blob/main/analysis/PyBer_analysis_by_region.png)
+![alt text](https://github.com/PSWil/PyBear_Analysis/blob/main/analysis/PyBer_fare_summary.png)
