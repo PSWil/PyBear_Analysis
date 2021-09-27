@@ -22,17 +22,9 @@ In our PyBer fare summary line graph that encompasses the 2019 months of January
 
 ## Summary
 
-cancelation data, ride data by hour of day, urban surge pricing data and strategy 
+Now that we have our data organized and visualized, we can start making some recommendations to PyBer based on our analysis. We can make many recommendations that the business can look into with the data that we have currently. First and foremost, we can easily increase the efficiency of drivers and the quality control of our service in urban environments by reducing the number of drivers in that market. This reduction in drivers will make it more enticing for our knowledgeable long-term drivers to stay on with the company and benefit more financially while providing a better and more reliable service. A second recommendation that can be made can be applied to rural environments. If the business model of PyBer does not apply itself to reducing the number of drivers registered in any area, we can suggest PyBer should incentivize drivers in saturated markets to travel a bit further to underserved markets in order to increase to service to an underserved area and giving drivers who stay in the city and number of fares that justify the expense of driving. Lastly, we could recommend to PyBer that the market can handle a slight price increase in the urban environment to maximize to profit in the market where they have the highest volume. Alternatively, if PyBer is in a healthy financial position and have other goal they are trying to achieve urban environment fares could be slightly lowered to act as a loss leader or to advance PyBer's market share.
 
-Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
+cancelation data, ride data by hour of day, urban surge pricing data and strategy, driver fares per hour, miles driver per fare 
+
 
 -----------------------------------------------
-
-Results:
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
-
-There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
-
-
